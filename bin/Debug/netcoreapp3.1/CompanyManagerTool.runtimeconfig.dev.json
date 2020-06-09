@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ppika\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ppika\\.nuget\\packages"
+    ]
+  }
+}
